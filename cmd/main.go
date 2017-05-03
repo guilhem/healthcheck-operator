@@ -8,7 +8,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/sapcc/kubernetes-operators/example/pkg/example"
+	"github.com/guilhem/healthcheck-operator/pkg/example"
 	"github.com/spf13/pflag"
 )
 
